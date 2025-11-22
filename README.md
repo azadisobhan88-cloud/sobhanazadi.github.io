@@ -5,8 +5,8 @@
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>SobhanCR7</title>
   <style>
-     body {
-       background: #aee7gg
+     <body> {
+       background: #aee7gg}
   </style>  
 </head>
                 <body>
