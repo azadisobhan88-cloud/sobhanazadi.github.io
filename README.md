@@ -1,18 +1,12 @@
-# sobhanazadi.github.io
+<!DOCTYPE html>
 <html lang="en">
 <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>SobhanCR7</title>
-  <style>
-     <body> {
-       background:#aee6ff}
-  </style>  
+                <title>زندگی نامه کریستیانو رونالدو</title>
 </head>
-                <body>
-                <hr>زندگی نامه کریستیانو رونالدو <hr>                       
-                </body>
-               
+<body>
+    <h1>سال تولد</h1>  
+    <br>          
+</body>
 </html>
-
-سلام سبحان آزادی هستم 
